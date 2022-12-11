@@ -1,0 +1,10 @@
+100,Pizza Margarita,6,meal
+101,Pizza Salami,6.5,meal
+102,Pizza Quattro Formaggi,6.5,meal
+103,Pizza Diavolo,7,meal
+200,Ice tea Peach,1.0,drink,false
+201,Ice tea Lemon,1.0,drink,false
+202,Ice tea Waterlemon,1.2,drink,false
+203,Ice tea Zero,1.5,drink,true
+204, Ice tea lemon,1.5,drink,true
+205, Coca Cola Zero, 1.3,drink,false
